@@ -3,3 +3,16 @@ body {
   height: 100%;
   margin: 0;
 }
+
+div {
+  width: 700px;
+  margin: auto;
+}
+
+#main-header {
+  color: red;
+}
+
+.perspective-questions {
+  font-style: italic;
+}
